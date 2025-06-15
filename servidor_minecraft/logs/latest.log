@@ -107,3 +107,7 @@
 [00:54:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
 [00:54:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
 [00:54:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:02:44] [User Authenticator #0/INFO]: UUID of player exzequiel66 is c5de5663-de9d-30c4-b12d-502285331e54
+[01:02:47] [Server thread/INFO]: exzequiel66 joined the game
+[01:02:47] [Server thread/INFO]: exzequiel66[/127.197.66.100:37969] logged in with entity id 47 at ([world]-9.5, 82.0, -8.5)
+[01:07:32] [Server thread/INFO]: exzequiel66 issued server command: /skin MioGay
